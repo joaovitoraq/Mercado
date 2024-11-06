@@ -1,3 +1,7 @@
+// ALUNOS:
+// João Vitor de Oliveira Aquino - 202208821571
+// Juan dos Santos de Azevedo - 202309425637
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
